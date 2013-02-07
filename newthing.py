@@ -2,3 +2,4 @@
 """This is a new file"""
 
 import numpy as np
+import matplotlib
