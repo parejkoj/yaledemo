@@ -3,3 +3,4 @@
 """my favorite line of python"""
 
 import numpy as np
+import matplotlib.pyplot as plt
