@@ -2,4 +2,5 @@
 """This is a new file"""
 
 import numpy as np
-import matplotlib
+import matplotlib.pyplot as plt
+data=np.loadtxt('data.dat')
